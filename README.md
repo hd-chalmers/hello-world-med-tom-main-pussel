@@ -1,5 +1,5 @@
-# Skriva ut Hello World! med en to  main metod pussel
-Målet med denna pussel är att man ska kunna skriva ut `Hello World!` med en tom mian metod. Denna pussel fungerar inte med script baserade som 
+# Skriva ut Hello World! med en tom main metod pussel
+Målet med denna pussel är att man ska kunna skriva ut `Hello World!` med en tom main metod. Denna pussel fungerar inte med script baserade som 
 Python och JavaScript för dem kräver inte en main metod.
 
 ## Att delta för Hacktoberfest
